@@ -1,0 +1,9 @@
+name: "lab_web"
+version: "1.0.0"
+created_at: "2026-11-18"
+root_url:
+
+apps:
+  client:
+    deployment: vercel
+    domain:
