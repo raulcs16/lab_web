@@ -1,0 +1,9 @@
+[submodule "lab_web_infra"]
+	path = lab_web_infra
+	url = https://github.com/raulcs16/lab_web_infra
+[submodule "lab_web_client_next_app"]
+	path = lab_web_client_next_app
+	url = https://github.com/raulcs16/lab_web_client_next_app
+[submodule "lab_web_backend_turbo_mono"]
+	path = lab_web_backend_turbo_mono
+	url = https://github.com/raulcs16/lab_web_backend_turbo_mono
